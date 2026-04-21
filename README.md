@@ -67,7 +67,4 @@ Before performing analysis, the dataset was cleaned and prepared using Excel to 
 - Correct data types for all columns  
 - Improved data quality for accurate insights
 
-## 📸 Data Cleaning Preview
 
-![Cleaned Data](clean_data.png)
-![Raw Data](raw_data.png)
