@@ -18,7 +18,7 @@ Analyze sales performance to identify trends, top-performing categories, and pro
 
 ## 📈 Dashboard
 
-(Add your Tableau dashboard screenshot here)
+![Dashboard](dashboard.png)
 
 ## 📂 Dataset
 
